@@ -1,4 +1,5 @@
 # Delete-temporary-files
-Ce script Windows automatise le nettoyage rapide des fichiers temporaires et caches système essentiels pour libérer de l’espace disque et améliorer les performances.  Il supprime les fichiers temporaires utilisateur et système, vide le cache Prefetch, vide la corbeille et purge le cache DNS. 
+This Windows script automates the quick cleanup of essential temporary files and system caches to free up disk space and improve performance. It deletes user and system temporary files, clears the Prefetch cache, empties the Recycle Bin, and purges the DNS cache. 
 
 # How to use?
+Just run the script.
